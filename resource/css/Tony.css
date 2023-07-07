@@ -11813,7 +11813,7 @@ pre .code {
 .footer .social-links {
   margin-left: auto;
 }
-
+/*
 .footer .social-links a {
   padding: 0;
   height: 40px;
@@ -11824,13 +11824,17 @@ pre .code {
   border: 2px solid #6c757d;
   color: #6c757d;
 }
+*/
 
 .footer .social-links a:hover {
   background: #695aa6;
+  /*
   border-color: #695aa6;
+  */
   color: #fff;
   text-decoration: none;
 }
+
 
 @media (max-width: 767.98px) {
   .footer {
